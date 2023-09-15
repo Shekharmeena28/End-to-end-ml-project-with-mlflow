@@ -20,9 +20,6 @@
 
 Clone the repository
 
-```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -72,7 +69,7 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=[https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow](https://dagshub.com/shekharmeena48/End-to-end-ml-project-with-mlflow.mlflow)
+export MLFLOW_TRACKING_URI=[https://dagshub.com/shekharmeena48/End-to-end-ml-project-with-mlflow.mlflow](https://dagshub.com/shekharmeena48/End-to-end-ml-project-with-mlflow.mlflow)
 
 export MLFLOW_TRACKING_USERNAME=shekharmeena48
 
